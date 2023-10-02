@@ -1,0 +1,8 @@
+let details =  [{  "name" : "sowbaranikaEswari",
+  "age" : 32,
+ "add" :"madurai",
+  "major" : "Sociology",
+  "MaritalStatus" : "M"}];
+
+console.log(details[0].age);
+// 32
